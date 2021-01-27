@@ -1,5 +1,5 @@
 ### Hi there 👋
-Web developer sometimes a writer, excited about technology, startups, and books. Currently, I work as a front-end developer (consultant) at TCS in Stockholm, Sweden.
+I'm a web developer sometimes a writer, excited about technology, startups, and books. Currently, I work as a front-end developer (consultant) at TCS in Stockholm, Sweden.
 
 
 #### 📫 How to reach me:
