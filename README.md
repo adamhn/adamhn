@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Adam, I am a front-end developer with a passion for building stuff that helps people do what they are best at. Currently, I work as a front-end developer (consultant) at Gjensidige in Stockholm, Sweden.
+Web developer sometimes a writer, excited about technology, startups, and books. Currently, I work as a front-end developer (consultant) at TCS in Stockholm, Sweden.
 
 
 #### 📫 How to reach me:
