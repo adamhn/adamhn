@@ -3,9 +3,8 @@ I’m a frontend developer, I work for Gjensidige Forsikring in Stockholm, Swede
 
 #### 📫 How to reach me:
 * Website: https://www.adamhn.com/
-* Email: me@adamhn.com
 * Linkedin: https://www.linkedin.com/in/adamhn/
-* Medium: https://medium.com/@adamhn
+* Email: me@adamhn.com
 
 <!--
 **adamhn/adamhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
