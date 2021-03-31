@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm a web developer sometimes a writer, excited about technology, startups, and books. Currently, I work as a front-end developer (consultant) at TCS in Stockholm, Sweden.
-
+I’m a frontend developer, I work for Gjensidige Forsikring in Stockholm, Sweden. I love to learn about new technology, explore new ideas and build stuff.
 
 #### 📫 How to reach me:
 * Website: https://www.adamhn.com/
