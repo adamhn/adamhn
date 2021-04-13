@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m a frontend developer working for Gjensidige Forsikring in Stockholm, Sweden. I love to learn about new technology, explore new ideas and build stuff.
+I’m a frontend developer working for Gjensidige Forsikring in Stockholm. I love to learn about new technology, explore new ideas and build stuff.
 
 #### 📫 How to reach me:
 * Website: https://www.adamhn.com/
